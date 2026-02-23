@@ -70,4 +70,4 @@ I also focus on the human element of security. I developed a **Phishing Click-Ra
 
 ### 📫 Contact Information
 * **Email:** ecb0523@gmail.com
-* **Education:** SNHU (Class of 2026)
+* **Education:**  B.S. Computer Science (Information Security) SNHU (Graduating November 2026)
